@@ -5,8 +5,9 @@ Each folder is a distinct piece of work I wish to demostrate. The folder just ho
 
 More specific details about the work can be found at [uwsthoughts.com/works](https://www.uwsthoughts.com/works/). Each folder has a README with a link out to more information.
 
+The work is made available under the creative commons non-commercial use license. At various points in my work, I'm using, referencing, or building upon work governed by this license and this keeps everything easy.
+
 Questions? HMU at hello@uwsthoughts.com
 
-The MIT license governs the work I have licensing control over. Other material used or referenced is governed by the license for that work. Distribution of the work of others referenced in a manner that violates their licensing policy is prohibited. 
 
 
