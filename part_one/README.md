@@ -4,5 +4,5 @@ A blog post that's more for the general audience [can be found here](https://www
 
 I've been taking Andrew Ng's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) course on Coursera and part 1 covers learnings from course 1 and the early part of course 2.
 
-Deeplearning.ai material is made available for non-academic use under the creative commons license, which is the same license governing this repository. I'm headed to graduaate school
+Deeplearning.ai material is made available for non-academic use under the creative commons license, which is the same license governing this repository. I'm headed to graduate school
 in the fall and my portfolio website is non-commercial in nature.
